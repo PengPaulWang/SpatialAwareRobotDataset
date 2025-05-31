@@ -1,0 +1,86 @@
+{
+    "image-name": "D:\\Working\\Research-with-Dr-Peng\\Annotation-Tool-For-SGG-Dataset\\sub_data\\sub_data\\group_2\\000219.jpg",
+    "width": 640,
+    "height": 480,
+    "boxes_canvas": [
+        [
+            610,
+            0,
+            707,
+            285
+        ],
+        [
+            649,
+            23,
+            725,
+            277
+        ]
+    ],
+    "attribute": [
+        [
+            1,
+            21,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        [
+            1,
+            21,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    ],
+    "boxes_1024": [
+        [
+            588,
+            165,
+            112,
+            331
+        ],
+        [
+            621,
+            174,
+            88,
+            295
+        ]
+    ],
+    "boxes_512": [
+        [
+            294,
+            82,
+            56,
+            165
+        ],
+        [
+            310,
+            87,
+            44,
+            147
+        ]
+    ],
+    "labels": [
+        5,
+        5
+    ],
+    "relationships": [
+        [
+            0,
+            1
+        ]
+    ],
+    "predicates": [
+        15
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "image-name": "C:\\Users\\24840360\\OneDrive - MMU\\Downloads\\sub_data\\sub_data\\group_7\\000740.jpg",
+    "width": 640,
+    "height": 480,
+    "boxes_canvas": [
+        [
+            907,
+            257,
+            1033,
+            389
+        ]
+    ],
+    "attribute": [
+        [
+            2,
+            3,
+            10,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    ],
+    "boxes_1024": [
+        [
+            950,
+            375,
+            146,
+            153
+        ]
+    ],
+    "boxes_512": [
+        [
+            475,
+            187,
+            73,
+            76
+        ]
+    ],
+    "labels": [
+        3
+    ],
+    "relationships": [],
+    "predicates": []
+}

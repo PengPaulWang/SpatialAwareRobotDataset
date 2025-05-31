@@ -1,0 +1,48 @@
+{
+    "image-name": "/home/staff/zhihao/Downloads/sub_data/sub_data/group_3/000397.jpg",
+    "width": 640,
+    "height": 480,
+    "boxes_canvas": [
+        [
+            126,
+            342,
+            171,
+            384
+        ]
+    ],
+    "attribute": [
+        [
+            24,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    ],
+    "boxes_1024": [
+        [
+            24,
+            397,
+            49,
+            46
+        ]
+    ],
+    "boxes_512": [
+        [
+            12,
+            198,
+            24,
+            23
+        ]
+    ],
+    "labels": [
+        1
+    ],
+    "relationships": [],
+    "predicates": []
+}

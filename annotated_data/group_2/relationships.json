@@ -1,0 +1,21 @@
+{
+    "above": 1,
+    "behind": 2,
+    "belonging to": 3,
+    "far away from": 4,
+    "holding": 5,
+    "in front of": 6,
+    "looking at": 7,
+    "mounted on": 8,
+    "near": 9,
+    "on": 10,
+    "over": 11,
+    "part of": 12,
+    "sitting on": 13,
+    "standing on": 14,
+    "to the left of": 15,
+    "to the right of": 16,
+    "under": 17,
+    "using": 18,
+    "walking on": 19
+}
