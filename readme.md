@@ -28,6 +28,34 @@ If you use this dataset, please cite our work:
 > - The `keyboardcontrol` branch, which offers enhanced keyboard control features for a more efficient annotation experience.  
 > You may wish to download the `keyboardcontrol` branch for improved usability.
 
+## Using the `keyboardcontrol` Branch for Enhanced Keyboard Support
+
+To use the enhanced keyboard control features, follow these steps:
+
+1. **Clone the `keyboardcontrol` Branch**
+    ```bash
+    git clone -b keyboardcontrol https://github.com/harvey-ph/SGDET-Annotate
+    ```
+2. **Navigate to the Project Directory**
+    ```bash
+    cd SGDET-Annotate
+    ```
+3. **Set Up the Environment and Install Dependencies**
+    - Create and activate a virtual environment as described above.
+    - Install requirements:
+      ```bash
+      pip install -r requirements.txt
+      ```
+4. **Run the Keyboard Control Version**
+    ```bash
+    python pwang_singly.py
+    ```
+5. **Keyboard Controls**
+    - You can now use keyboard shortcuts to move and adjust bounding boxes, making annotation faster and more precise.
+    - Refer to the on-screen instructions or the repository documentation for specific key mappings.
+
+> **Note:** All other annotation steps remain the same as described for the default branch.
+
 # **SGDET-Annotate**
 > _Scene Graph Annotation Made Simple_
 
